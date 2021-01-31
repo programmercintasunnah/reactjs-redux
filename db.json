@@ -1,0 +1,95 @@
+{
+    "users":[
+        {
+          "id": 1,
+          "nama": "muhammad zakie",
+          "alamat": "kampar",
+          "umur": 22,
+          "nohp": "082286250694"
+        },
+        {
+          "id": 2,
+          "nama": "hafizah",
+          "alamat": "kampar",
+          "umur": 6,
+          "nohp": "082289877774"
+        },
+        {
+          "id": 3,
+          "nama": "abdi fajri",
+          "alamat": "kampar",
+          "umur": 18,
+          "nohp": "082276466771"
+        },
+        {
+            "id": 4,
+            "nama": "heaven",
+            "alamat": "kampar",
+            "umur": 12,
+            "nohp": "081398656754"
+          },
+          {
+            "id": 5,
+            "nama": "khairul amri",
+            "alamat": "kampar",
+            "umur": 49,
+            "nohp": "081371944714"
+          },
+          {
+            "id": 5,
+            "nama": "zirdayardanis",
+            "alamat": "kampar",
+            "umur": 46,
+            "nohp": "082384449876"
+          },
+          {
+            "id": 6,
+            "nama": "aisyah munawwaroh",
+            "alamat": "petapahan",
+            "umur": 19,
+            "nohp": "082198765432"
+          },
+          {
+            "id": 7,
+            "nama": "anisa maharani",
+            "alamat": "rimbo panjang",
+            "umur": 22,
+            "nohp": "081387654327"
+          },
+          {
+            "id": 8,
+            "nama": "khairani abdillah syahidah",
+            "alamat": "rokan hilir",
+            "umur": 21,
+            "nohp": "082298765432"
+          },
+          {
+            "id": 9,
+            "nama": "rafika nurfadhila",
+            "alamat": "air tiris",
+            "umur": 21,
+            "nohp": "081309878909"
+          },
+          {
+            "id": 10,
+            "nama": "rafika nurfadhila",
+            "alamat": "air tiris",
+            "umur": 21,
+            "nohp": "081309878909"
+          },
+          {
+            "id": 11,
+            "nama": "rafika nurfadhila",
+            "alamat": "air tiris",
+            "umur": 21,
+            "nohp": "081309878909"
+          },
+          {
+            "id": 12,
+            "nama": "rafika nurfadhila",
+            "alamat": "air tiris",
+            "umur": 21,
+            "nohp": "081309878909"
+          }
+      ]
+}
