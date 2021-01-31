@@ -3,14 +3,14 @@
         {
           "id": 1,
           "nama": "muhammad zakie",
-          "alamat": "kampar",
+          "alamat": "pd merbau",
           "umur": 22,
           "nohp": "082286250694"
         },
         {
           "id": 2,
           "nama": "hafizah",
-          "alamat": "kampar",
+          "alamat": "kampa",
           "umur": 6,
           "nohp": "082289877774"
         },
@@ -24,14 +24,14 @@
         {
             "id": 4,
             "nama": "heaven",
-            "alamat": "kampar",
+            "alamat": "kp panjang",
             "umur": 12,
             "nohp": "081398656754"
           },
           {
             "id": 5,
             "nama": "khairul amri",
-            "alamat": "kampar",
+            "alamat": "kampar timur",
             "umur": 49,
             "nohp": "081371944714"
           },
@@ -58,7 +58,7 @@
           },
           {
             "id": 9,
-            "nama": "khairani abdillah syahidah",
+            "nama": "m fikrul irsyad",
             "alamat": "rokan hilir",
             "umur": 21,
             "nohp": "082298765432"
